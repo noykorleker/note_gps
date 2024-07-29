@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="note_gps">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>note_gps</title>
+  <link rel="manifest" href="manifest.json">
+
+  <!-- Add Firebase SDKs -->
+  <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-firestore.js"></script>
+
+  <!-- Initialize Firebase -->
+  <script>
+    var firebaseConfig = {
+      apiKey: "AIzaSyD9RJKJ3mx-q3eeESJUhnE_a_-Kk5VaOh0",
+      authDomain: "notes-18fae.firebaseapp.com",
+      projectId: "notes-18fae",
+      storageBucket: "notes-18fae.appspot.com",
+      messagingSenderId: "846138915526",
+      appId: "1:846138915526:web:0325ad97b498c4be7db5c7",
+      measurementId: "G-MHVGGLDZYJ"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
+
+  <!-- Add Google Maps API Script -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAHrgQ6NGdJZi-SikHMvEflmVybC9geXCg" async defer></script>
+</head>
+<body>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

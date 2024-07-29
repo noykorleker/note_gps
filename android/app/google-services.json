@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846138915526",
+    "project_id": "notes-18fae",
+    "storage_bucket": "notes-18fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846138915526:android:c09e1ff864e31e7d7db5c7",
+        "android_client_info": {
+          "package_name": "com.example.note_gps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATQy_suMiq4_5jH541-j00_D9ryakX4mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
