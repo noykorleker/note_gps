@@ -19,7 +19,13 @@ Note GPS is a location-based notes application built with Flutter. The applicati
 
 ## Screenshots
 
-[Include screenshots of your app here]
+![4f815ce4-6d2f-4230-a3ae-124e39a33290](https://github.com/user-attachments/assets/7a60217c-4d0a-476e-b8a8-3fc198053d56)
+![5671f14b-a215-4933-95e2-c630fd2bf4d8](https://github.com/user-attachments/assets/601819ae-f021-41b7-a321-dfb727ffef3a)
+![2b038d28-97be-4dae-86e9-0d5bbb205916](https://github.com/user-attachments/assets/c2e5ef64-a820-4c72-83e2-e2f7df5cb308)
+![image](https://github.com/user-attachments/assets/63580b3a-950e-43e4-bc51-37d1668722b8)
+![image](https://github.com/user-attachments/assets/6becd611-a86b-4d5c-adfc-aa9ab8c89907)
+![image](https://github.com/user-attachments/assets/e74bf421-db76-4909-aa66-150d1516d8a4)
+
 
 ## Known Issues
 
