@@ -44,3 +44,6 @@ Note GPS is a location-based notes application built with Flutter. The applicati
 - Data Storage: Firestore is used to store notes data. Each user has a collection of notes identified by their user ID.
 - Images: Firebase Storage is used to store images attached to notes.
 - Location: The Geolocator package is used to fetch the user's current location.
+
+### link for an installable application
+https://drive.google.com/file/d/1s9pqmnUhoNrz8fq4K-CannPoAqpnufzy/view?usp=sharing
